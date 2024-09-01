@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!!+👋;+I'm+Sameer!+😉;"/>
+
 
 # 💫 About Me:
 I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend half of my time correcting errors. 🥲 
