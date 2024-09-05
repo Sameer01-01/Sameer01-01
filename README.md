@@ -19,7 +19,7 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sameer01-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sameer01-01&icon=0&color=11)](https://visitcount.itsvg.in)
