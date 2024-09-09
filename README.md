@@ -17,6 +17,12 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameer01-01&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer01-01&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" />
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sameer01-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
