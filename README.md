@@ -15,7 +15,7 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
 # 📊 GitHub Stats:
 <p><img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Sameer01-01" alt=""  height="200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer01-01&" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Sameer01-01&" alt="" /></p>
 
 
 <br clear="both">
