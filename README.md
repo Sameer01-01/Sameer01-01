@@ -17,12 +17,15 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer01-01&" alt="" /></p>
 
-![GitHub Trophies](https://github-trophies.vercel.app/?username=Sameer01-01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" />
+
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Sameer01-01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 
 
 
