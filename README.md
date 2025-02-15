@@ -17,6 +17,11 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer01-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%; height: 200px; display: inline-block;" />
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer01-01&theme=github" alt="Contribution Graph" />
+</p>
+
+
 
 
 
