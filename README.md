@@ -18,7 +18,7 @@ I'm a Frontend Web developer, currently learning MERN stack. 😁<br>I spend hal
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer01-01&theme=github" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer01-01&theme=dark" alt="Contribution Graph" />
 </p>
 
 
